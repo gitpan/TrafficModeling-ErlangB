@@ -1,0 +1,6 @@
+Revision history for Perl extension TrafficModeling::ErlangB.
+
+0.01  Mon Jun  6 01:03:13 2005
+	- original version; created by h2xs 1.23 with options
+		-XAn TrafficModeling::ErlangB
+
